@@ -1,4 +1,4 @@
-/*  Nikolay Vladimirov - Main Robockey Code for Robot 1
+/* Joe Chan, Niko Vladimirov, Gabby Merritt - Main Robockey Code for Robot 1
     Mechatronics 410/510
     Update: Dec 1
     PINS USED:
